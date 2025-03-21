@@ -1,0 +1,16 @@
+html {
+    background-color: #C5B4E3;
+}
+
+body {
+    padding: 1vw 10vw;
+}
+
+h1, h2 {
+    font-family: "Mea Culpa", serif;
+}
+
+.pos-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
